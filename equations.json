@@ -1,0 +1,7 @@
+{
+    "acceleration" : "a = (v - vi) / t",
+    "position with known acceleration" : "s = si + vi * t + 1/2 * a * t^2",
+    "position with unknown acceleration" : "s = si + vi * t + 1/2 * v * t",
+    "final velocity with known time" : "v = vi + a * t",
+    "final velocity with unknown time" : "v^2 = vi^2 + 2 * a * (s - si)"
+}
