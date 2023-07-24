@@ -3,5 +3,14 @@
     "position with known acceleration" : "s = si + vi * t + 1/2 * a * t^2",
     "position with unknown acceleration" : "s = si + vi * t + 1/2 * v * t",
     "final velocity with known time" : "v = vi + a * t",
-    "final velocity with unknown time" : "v^2 = vi^2 + 2 * a * (s - si)"
+    "final velocity with unknown time" : "v^2 = vi^2 + 2 * a * (s - si)",
+    "momentum" : "p = m * v",
+    "2nd Newton" : "F = m * a",
+    "work" : "W = F * s * cos(alpha)",
+    "potential energy" : "Ep = m * g * s",
+    "kinetic energy" : "Ek = 1/2 * m * v^2",
+    "power" : "P = W / t",
+    "force momentum" : "M = F * r",
+    "serial resistors" : "R = R1 + R2",
+    "parallel resistors" : "1/R = 1/R1 = 1/R2"
 }
